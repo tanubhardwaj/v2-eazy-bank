@@ -11,8 +11,8 @@ spring:
           #search-locations: "classpath:/config"
           #search-locations: "file:///E://Tanu//Learning//config"
         git:
-          uri: "https://github.com/tanubhardwaj/microservices.git"
-          default-label: 
+          uri: "https://github.com/tanubhardwaj/v2-eazy-bank.git"
+          default-label: main
           timeout: 5
           clone-on-start: true
           force-pull: true
