@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "QA - Name"
+    email: "name.qa@xyz.com"
+  onCallSupport:
+    - (+91) 00000-0000
+    - (+91) 11111-1111

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank cards related prod APIs"
+  contactDetails:
+    name: "Product Owner - Name"
+    email: "name.productOwner@xyz.com"
+  onCallSupport:
+    - (+91) 22222-2222
+    - (+91) 33333-3333
